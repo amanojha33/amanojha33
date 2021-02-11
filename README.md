@@ -2,10 +2,13 @@
 ### Hi there，I'm Aman 🙋‍♂️
 
 
-- I have strong hands on iOS app development and python skills. Currently I am working on system programming and creating projects in C. 
-- Maths and Quantum Computing are my passtime reads.
-- Hobbies are reading, cooking and travelling.
+- I have a strong experience in iOS app development and system programming with Linux. Currently I am working on server products in Intel. 
+- Worked with python, Unix and c++ in my last company.
+- Maths and Quantum Computing are my passtime reads. Although spirituality is constant mixup.
+- Analyst by heart, I always have a different perception of everything in this world.
+- Hobbies are reading, cooking, music and travelling.
 
+- Expect a quantum repo for classical problems very soon.
 
 
 
