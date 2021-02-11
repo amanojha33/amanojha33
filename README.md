@@ -4,9 +4,9 @@
 
 - I have a strong experience in iOS app development and system programming with Linux. Currently I am working on server products in Intel. 
 - Worked with python, Unix and c++ in my last company.
-- Maths and Quantum Computing are my passtime reads. Although spirituality is constant mixup.
+- Quantum Computing and Cosmos are my timepass reads. Although spirituality is a constant mixup.
 - Analyst by heart, I always have a different perception of everything in this world.
-- Hobbies are reading, cooking, music and travelling.
+- Hobbies are reading, cooking, music, gardening and travelling.
 
 - Expect a quantum repo for classical problems very soon.
 
