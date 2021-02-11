@@ -21,7 +21,7 @@ Technologies I've been learning and using so far :
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]()
     [![C](https://img.shields.io/badge/-C-eee?style=flat-square&logo=C&logoColor#F7BD2F)]()
     [![Swift](https://img.shields.io/badge/-Swift-eee?style=flat-square&logo=swift&logoColor#F7BD2F)]()
-    [![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-eee?style=flat-square&logo=Objective-C&logoColor#F7BD2F)]()
+    [![ObjectiveC](https://img.shields.io/badge/-Objective-C-eee?style=flat-square&logo=Objective-C&logoColor#F7BD2F)]()
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]()
  
 - Machine Learning / Deep Learning frameworks : <br />
