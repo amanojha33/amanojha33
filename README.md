@@ -17,8 +17,9 @@
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
+
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]()
-    [![C](https://img.shields.io/badge/-c-red)]()
+    [![C](https://img.shields.io/badge/-C-eee?style=flat-square&logo=C&logoColor#F7BD2F)]()
     [![Swift](https://img.shields.io/badge/-swift-yellow)]()
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]()
  
