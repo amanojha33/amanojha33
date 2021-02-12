@@ -22,6 +22,7 @@ Technologies I've been learning and using so far :
     [![C](https://img.shields.io/badge/-C-eee?style=flat-square&logo=C&logoColor#F7BD2F)]()
     [![Swift](https://img.shields.io/badge/-Swift-eee?style=flat-square&logo=swift&logoColor#F7BD2F)]()
     [![Objective-C](https://img.shields.io/badge/-ObjectiveC-eee?style=flat-square&logo=Objective-C&logoColor#F7BD2F)]()
+    [![Java](https://img.shields.io/badge/-Java-eee?style=flat-square&logo=Java&logoColor#F7BD2F)]()
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]()
  
 - Machine Learning / Deep Learning frameworks : <br />
@@ -47,7 +48,7 @@ Technologies I've been learning and using so far :
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
     [![Xcode](http://img.shields.io/badge/-Xcode-eee?style=flat-square&logo=Xcode&logoColor=007ACC)]()
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
-    [![Unix](http://img.shields.io/badge/-Unix-eee?style=flat-square&logo=Unix&logoColor=D67A10)]()
+    [![Unix](http://img.shields.io/badge/-Unix-eee?style=flat-square&logo=Solaris&logoColor=D67A10)]()
     [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)]()
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]()
     [![Sphinx doc](http://img.shields.io/badge/-Sphinx-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAABI1BMVEUAAAAIR2wIRmsJR2wHR2sJSGwJR20JRm0IR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIRmwIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2z///+XvfDmAAAAYHRSTlMAAAAAAAAAAAYfPksyExhAcqjExse9k1lEIQOHzMXBu8vWw8lmit3OgkKw/n5s4s9RAU+htpW3dpfkaRsqVy5HfJim59gkswd3UNs7ozoVAZZdsQsOi52nXghjCjg9EgKZIX1LAAAAlUlEQVQI11WOvQ7BYABF7/laIWqQRproZrHb2P0MVpPByxk6iL4Fu82moxCRRlQa4jPUT9zl5uQsB/0NiR9ZjJXKAGRPCVMDwBoACIvjUnXJK4Tem8k8oANJK60D7Jvg9D72urmJAUl60JBjwG4rxgBnf911IBYTWLUDWPj9SIIppwZzzZajWJYi0X2U7pL9BjuSm0sv/jwjvB/O1IMAAAAASUVORK5CYII=)](/sphinx-restructuredtext)
