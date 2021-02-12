@@ -2,8 +2,8 @@
 ### Hi there，I'm Aman 🙋‍♂️
 
 
-- I have a strong experience in iOS app development and system programming with Linux. Currently I am working on server products in Intel. 
-- Worked with python, Unix and c++ in my last company.
+- I have a strong experience in System Programming with Unix/Linux environment and iOS app development. Currently I am working on server products in Intel. 
+- Advanced with C, Python and Virtualization.
 - Quantum Computing and Cosmos are my timepass reads. Although spirituality is a constant mixup.
 - Analyst by heart, I always have a different perception of everything in this world.
 - Hobbies are reading, cooking, music, gardening and travelling.
