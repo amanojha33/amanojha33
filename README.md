@@ -44,7 +44,7 @@ Technologies I've been learning and using so far :
     [![Flask](http://img.shields.io/badge/-Flask-eee?style=flat-square&logo=flask&logoColor=000)]()
     [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]()
 - OS & IDE & Tools : <br />
-    [![Unix](http://img.shields.io/badge/-Unix-eee?style=flat-square&logo=Unix&logoColor=D67A10)]()
+    [![Unix](http://img.shields.io/badge/-Unix-eee?style=flat-square&logo=unix&logoColor=D67A10)]()
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
     [![Xcode](http://img.shields.io/badge/-Xcode-eee?style=flat-square&logo=Xcode&logoColor=007ACC)]()
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
